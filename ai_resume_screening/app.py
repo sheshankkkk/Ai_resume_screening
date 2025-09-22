@@ -85,7 +85,7 @@ if st.button("⚙️ Run Screening", type="primary"):
         for _, row in df.iterrows():
             insert_result(jd_id, str(row["candidate"]), float(row["score"]))
 
-        st.success("Screening complete!")
+        st.success("Screening completed!")
         st.subheader("Results")
         st.dataframe(df, use_container_width=True)
 
