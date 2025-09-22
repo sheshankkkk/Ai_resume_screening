@@ -1,0 +1,4 @@
+Jane Smith
+Experience: 1 year
+Skills: Excel, Tableau, Power BI
+Worked on dashboards and reporting.

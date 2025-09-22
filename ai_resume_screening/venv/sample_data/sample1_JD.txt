@@ -1,0 +1,2 @@
+We are hiring a Data Scientist with strong Python, SQL, and scikit-learn experience.
+Responsibilities include building ML pipelines and evaluating models.

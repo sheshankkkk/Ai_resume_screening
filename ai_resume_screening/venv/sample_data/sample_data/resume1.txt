@@ -1,0 +1,4 @@
+John Doe
+Experience: 3 years
+Skills: Python, Pandas, scikit-learn, SQL
+Worked on ML pipelines and model evaluation.
